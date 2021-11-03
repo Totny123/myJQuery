@@ -1,1 +1,1 @@
-jQuery(".test").prev().print();
+$(".test").prev().print();
